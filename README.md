@@ -7,7 +7,7 @@ Illuminati Card Game Software Project
 -------------------------------------
 Authors:
 
-Huang, Wesley
-Guerrero, Benjamin
-Nguyen, Minhthong
+Huang, Wesley <br />
+Guerrero, Benjamin <br />
+Nguyen, Minhthong <br />
 Som, Johnjimy
