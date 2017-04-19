@@ -5,12 +5,12 @@ Group J has taken to implement this hit board game on the PC where you can play 
 ## Installation
 Illuminati doesn't require any installation. Simply clone or download the repo from github and run the game.exe. 
 ## Menu
-### Play
+### `Play`
 The play button will take you to the start of the game. From here, you will decide how many players you will play up against. For the first iteration of the game, the game will be done in a hotseat type game. Each player will take turns on the same device and play against each other.
 Future versions of Illumaniti will feature multiplayer on sepearte devices so you and your friends can scheme from your own homes.
-### Options
+### `Options`
 This will take you to the configurations page of the Illuminati game. Here you can change resolution, volume options, full screen, and other game related options.
-### Exit
+### `Exit`
 This button will saftely close out the game and return you to your operating system.
 ## System Requirements
 | Components    | Minimum Requirements  | Reccomended Specs  |
