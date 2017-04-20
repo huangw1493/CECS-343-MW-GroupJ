@@ -25,6 +25,65 @@ This button will saftely close out the game and return you to your operating sys
 | Resolution | 1024 x 768 minimum display resolution                             
 ## Gameplay
 Official game rules are listed [here](http://www.sjgames.com/illuminati/img/illuminati_rules.pdf). The digital implementation of the game is done as accurately as possible with minimal liberties.
+## Board and Buttons
+### Board
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/MainBoard.jpeg)
+
+### Board when in attack mode
+clicking on on a card and dragging and dropping on opponent or neutal card will open these options
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/Attacking.jpeg)
+
+### Board in interference mode
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/Interrupt.jpeg)
+
+
+### Buttons
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/privilage%20button.jpg)
+Clicking this button allows you to attack without other players interferring with an attack.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/revoke%20privilage.jpg)
+Clicking this button revokes a player's privilaged attack by offering 2 special cards.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/interrupt%20button.jpg)
+This button allows you to assist in attacks by either helping or hindering other players in their attack.
+
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/increase%20mb%20button.jpg)
+Clicking the up arrow will increase megabucks spent. To decrease it click the down arrow button.
+
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/specials%20button.jpg)
+Hovering over this will show you which special cards you have. Each special card had different effects and can be played at certain times depending on the card.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/deck.jpg)
+Click the deck to put a group card in the neutral zone or to obtain a special card.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/group%20card.jpg)
+These are cards that go around your Illuminati card and are called Group cards. They come with power, resistance and an income. Some will aso come with transferable power and effects.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/group%20card%20with%20effect.jpg)
+These group cards have an effect.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/neutral%20card.jpg)
+These are group cards in the neutral zone that players can attack to control, destroy or neutrilize. 
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/faction%20card.jpg)
+Each player only has one of these. It comes with a special goal that when the condition is met, the player wins the game. They also come with power, resistance, income, and an effect. 
+
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/card%20slot.jpg)
+These are slots that a group or faction can connect their controlled groups. If a group does not have one of these, it cannot be connected in that direction.
+
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/confirm%20attack%20button.jpg)
+After adding Megabucks, a player presses this button to confirm their attack.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/attack%20or%20defend.jpg)
+Click defend if you wish to defend a player when they are attacked on press attack if you wish to aid another players attack.
+
+![alt text](https://github.com/huangw1493/CECS-343-MW-GroupJ/blob/master/Graphics/cancel%20button.jpg)
+If a player does not wish to continue with an action (attack, interferrence, etc), they can press this button.
+
 ## Changelog
 ### Beta 0.1
 Beta 0.1 will feature a text based board game that can be played with friends. This is simply a development run before graphical elements and UI are implemented. While playable, this does not represent the final product. It will not feature all the cards in the full game. 
